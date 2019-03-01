@@ -2,7 +2,7 @@ name: OAuth Me.
 type: module
 description: OAuth Me Module.
 # core: 8.x
-package: Custom
+package: Urumuqi
 # Information added by Drupal.org packaging script on 2019-02-10
 version: '1.0.0-dev'
 core: '8.x'
