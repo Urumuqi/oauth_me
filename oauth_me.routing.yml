@@ -1,0 +1,7 @@
+oauth_me.content:
+  path: '/oauth/hello'
+  defaults:
+    _controller: '\Drupal\oauth_me\Controller\OAuthController::oauth_hello'
+    _title: 'OAuth me'
+  requirements:
+    _permission: 'can access oauth hello'

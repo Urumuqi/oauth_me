@@ -1,0 +1,6 @@
+oauth_me.admin:
+  title: 'oauth_me module settings'
+  description: 'how to build a REST api service'
+  parent: system.admin_config_development
+  route_name: oauth_me.content
+  weight: 100

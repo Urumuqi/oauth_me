@@ -1,0 +1,2 @@
+view own simple_oauth entities:
+  title: 'can access oauth user information'
